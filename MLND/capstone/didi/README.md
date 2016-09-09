@@ -1,5 +1,4 @@
-# CAPSTONE PROJECT
-## Machine Learning Nano Degree
+## Capston Project - Machine Learning Nano Degree
 ### Vishakh Rayapeta
 
 ## Location of input data files
@@ -13,11 +12,11 @@ The original data is processed and saved as data\_set.pickle on the github folde
 
 
 ## Library dependencies
-sklearn    0.17.1
-pandas     0.18.0
-numpy      1.11.1
-tensorflow 0.9.0
-seaborn    0.7.0
+sklearn    0.17.1    
+pandas     0.18.0    
+numpy      1.11.1     
+tensorflow 0.9.0    
+seaborn    0.7.0    
 
 Versions of tensorflow newer than 0.9.0 may be incompatible.
 
