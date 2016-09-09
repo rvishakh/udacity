@@ -29,26 +29,26 @@ Versions of tensorflow newer than 0.9.0 may be incompatible.
 The following order can be used to browse the notebooks:
 
 #### Data Processing & Exploration
-data\_processing.ipynb
-data\_exploration.ipynb
+data\_processing.ipynb    
+data\_exploration.ipynb     
 
 #### Basic Algorithm Implementations w/ Initial Parameter Tuning
-implement\_basic.ipynb
-implement\_nn.ipynb
-implement\_nn2.ipynb
-implement\_nn3.ipynb
+implement\_basic.ipynb    
+implement\_nn.ipynb     
+implement\_nn2.ipynb    
+implement\_nn3.ipynb    
 
 #### Analysis of Basic Algorithm Implementations
-residual\_analysis.ipynb
+residual\_analysis.ipynb    
 
 #### Refinements
-refine\_addgap.ipynb
-refine\_sqrt.ipynb
-refine\_addtimeweek.ipynb
-refine\_paramtune.ipynb
-refine\_featred.ipynb
-refine\_nn3.ipynb
-refine\_ensemble.ipynb
+refine\_addgap.ipynb     
+refine\_sqrt.ipynb    
+refine\_addtimeweek.ipynb    
+refine\_paramtune.ipynb    
+refine\_featred.ipynb     
+refine\_nn3.ipynb     
+refine\_ensemble.ipynb     
 
 #### Evaluation of Final Models
-model\_eval.ipynb
+model\_eval.ipynb    
